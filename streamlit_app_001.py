@@ -3,7 +3,7 @@ import mlflow.sklearn
 import numpy as np
 
 st.title("Predicción de Diabetes")
-
+st.title("Freddy Daniel Curicama Curicam")
 # Configurar conexión con MLflow Tracking Server
 pass
 
