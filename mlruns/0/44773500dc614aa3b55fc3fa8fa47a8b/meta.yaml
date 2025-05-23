@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/DanielNK/Documents/Maestria/HerramientasIA/Clase06/practica-2-Daniel-utpl/mlruns/0/44773500dc614aa3b55fc3fa8fa47a8b/artifacts
+end_time: 1747972020903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44773500dc614aa3b55fc3fa8fa47a8b
+run_name: Practica_01
+run_uuid: 44773500dc614aa3b55fc3fa8fa47a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747972020847
+status: 4
+tags: []
+user_id: DanielNK
